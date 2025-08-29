@@ -1,0 +1,62 @@
+{
+  "id": "efec00e7-5d60-43b4-b84e-18e2ab7c308f",
+  "brand": "Lenevo",
+  "name": "ThinkPad P1",
+  "cpu": {
+    "brand": "Intel",
+    "name": "Core i9-pp80HK",
+    "number_cores": 2,
+    "number_threads": 11,
+    "min_ghz": 3.496640408618884,
+    "max_ghz": 4.826010551254154
+  },
+  "memory": {
+    "value": "51",
+    "unit": "GIGABYTE"
+  },
+  "gpu": [
+    {
+      "brand": "AMD",
+      "name": "Radeon RX 9000",
+      "min_ghz": 1.1992946859112275,
+      "max_ghz": 1.7403113589811592,
+      "memory": {
+        "value": "3",
+        "unit": "GIGABYTE"
+      }
+    }
+  ],
+  "storage": [
+    {
+      "driver": "SSD",
+      "memory": {
+        "value": "2",
+        "unit": "TERABYTE"
+      }
+    },
+    {
+      "driver": "SSD",
+      "memory": {
+        "value": "779",
+        "unit": "GIGABYTE"
+      }
+    }
+  ],
+  "screen": {
+    "size_inch": 16.897259,
+    "resolution": {
+      "width": 5528,
+      "height": 3110
+    },
+    "panel": "OLED",
+    "multitouch": false
+  },
+  "keyboard": {
+    "layout": "AZERTY",
+    "backlit": false
+  },
+  "weight_kg": 1.3655249638937643,
+  "price_usd": 2125.267188494801,
+  "release_year": 2024,
+  "updated_at": "2025-08-29T04:58:28.729553Z"
+}
